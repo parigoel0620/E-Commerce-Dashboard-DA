@@ -4,6 +4,10 @@
 
 This project is an **E-Commerce Sales Dashboard created using Google Sheets** to analyze and visualize sales data. The dashboard provides an interactive view of key business metrics and helps identify sales trends, product performance, and customer insights.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/effbcb0f-ce1a-4e6f-80f7-9514028ab0de" alt="E-Commerce Sales Dashboard" width="850">
+</p>
+
 ## 🎯 Objectives
 
 * Analyze e-commerce sales performance
@@ -65,8 +69,3 @@ Through this project, I practiced:
 
 **Pari Goel**
 BBA | Data Analytics & HR
-
-<img width="827" height="600" alt="EXCEL DASHBOARDS" src="https://github.com/user-attachments/assets/effbcb0f-ce1a-4e6f-80f7-9514028ab0de" />
-
-
-
