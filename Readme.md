@@ -66,4 +66,7 @@ Through this project, I practiced:
 **Pari Goel**
 BBA | Data Analytics & HR
 
+<img width="827" height="600" alt="EXCEL DASHBOARDS" src="https://github.com/user-attachments/assets/effbcb0f-ce1a-4e6f-80f7-9514028ab0de" />
+
+
 
